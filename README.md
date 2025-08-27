@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Cesar! 👋
 
-<!--
-**cesarg210/cesarg210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate Computer Science student and aspiring Software Engineer. Currently pursuing a Bachelor's degree at Embry Riddle Auronautical University, I'm excited about building impactful software solutions and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-B07219?style=flat&logo=java&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬Connext with Me
+
+- [LinkedIn](www.linkedin.com/in/cesar-gallegos)
+- [Email](cesarg210@gmail.com)
