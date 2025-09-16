@@ -11,4 +11,4 @@ I'm a passionate Computer Science student and aspiring Software Engineer. Curren
 ## 📬Connext with Me
 
 - [LinkedIn](https://www.linkedin.com/in/cesar-gallegos)
-- [Email](cesarg210@gmail.com)
+- [Email](mailto:cesarg210@gmail.com)
