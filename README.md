@@ -1,7 +1,7 @@
 # Hi, I'm Cesar! 👋
 
 ## About Me
-Cybersecurity & Risk Management student at UT Dallas with a focus on network security, risk analysis, and defensive security fundamentals.
+I'm a Cybersecurity & Risk Management student at UT Dallas with a focus on network security, risk analysis, and defensive security fundamentals.
 This GitHub is a collection of labs, scripts, and learning projects as I build hands-on cybersecurity skills and prepare for internships.
 
 ### 🧰 Tools & Technologies
