@@ -6,21 +6,20 @@ This GitHub is a collection of my personal labs that I've done myself and docume
 
 ## See my portfolio➡️ [Click Me](https://github.com/cesarg210/cybersecurity-lab-portfolio "Click Me")
 
-### 🧰 Tools, Technologies, and Skills
+### 📝Certifications
+![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-red)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
+
+## 💾Platforms
 ![Linux](https://img.shields.io/badge/OS-Linux-000000?style=flat&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-
---
-
 ![VMware](https://img.shields.io/badge/VMware-FF6A00?style=flat&logo=vmware&logoColor=white)
+
+### 🔐Security Tools
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat&logo=wireshark&logoColor=white)
 ![Elastic SIEM](https://img.shields.io/badge/Elastic-SIEM-005571?logo=elastic&logoColor=white)
 ![OpenVAS](https://shields.io/badge/OpenVAS-007A3E?style=flat&logo=openvas&logoColor=white)
 
---
-
-![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-red)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
 
 ## 📬Connext with Me
 - [LinkedIn](https://www.linkedin.com/in/cesar-gallegos)
