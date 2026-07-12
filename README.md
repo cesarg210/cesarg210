@@ -14,7 +14,7 @@ This GitHub is a collection of my labs, both personal and collegiate, that I've 
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat&logo=wireshark&logoColor=white)
 ![OpenVAS](https://shields.io/badge/OpenVAS-007A3E?style=flat&logo=openvas&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-red)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
 
 ## 📬Connext with Me
 - [LinkedIn](https://www.linkedin.com/in/cesar-gallegos)
