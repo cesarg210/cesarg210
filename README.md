@@ -12,7 +12,7 @@ This GitHub is a collection of my labs, both personal and collegiate, that I've 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-FF6A00?style=flat&logo=vmware&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat&logo=wireshark&logoColor=white)
-![Elastic SIEM](https://img.shields.io/badge/Elastic-SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Elastic SIEM](https://img.shields.io/badge/Elastic-SIEM-005571?logo=elastic&logoColor=white)
 ![OpenVAS](https://shields.io/badge/OpenVAS-007A3E?style=flat&logo=openvas&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-red)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
