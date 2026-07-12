@@ -6,11 +6,11 @@ This GitHub is a collection of my labs, both personal and collegiate, that I've 
 
 ## See my portfolio➡️ [Click Me](https://github.com/cesarg210/cybersecurity-lab-portfolio "Click Me")
 
-### 🧰 Tools & Technologies
+### 🧰 Tools, Technologies, and Skills
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat&logo=wireshark&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat&logo=cisco&logoColor=white)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-red)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-FF6A00?style=flat&logo=vmware&logoColor=white)
 ![OpenVAS](https://shields.io/badge/OpenVAS-007A3E?style=flat&logo=openvas&logoColor=white)
