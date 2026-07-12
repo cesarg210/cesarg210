@@ -13,7 +13,7 @@ This GitHub is a collection of my labs, both personal and collegiate, that I've 
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat&logo=cisco&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-FF6A00?style=flat&logo=vmware&logoColor=white)
-![OpenVAS](https://shields.io)
+![OpenVAS](https://shields.io/badge/OpenVAS-007A3E?style=flat&logo=openvas&logoColor=white)
 ![Security](https://img.shields.io/badge/Cybersecurity-5C2D91?style=flat&logo=datadog&logoColor=white)
 
 ## 📬Connext with Me
