@@ -4,7 +4,7 @@
 I'm a Cybersecurity & Risk Management student at UT San Antonio with a focus on network security, risk analysis, and defensive security fundamentals.
 This GitHub is a collection of my personal labs that I've done myself and documented for the sake of gaining hands-on exposure to real cybsecurity tools.
 
-## See my portfolio➡️ [Click Me](https://github.com/cesarg210/cybersecurity-lab-portfolio "Click Me")
+## See my lab portfolio➡️ [Click Me](https://github.com/cesarg210/cybersecurity-lab-portfolio "Click Me")
 
 #### 📝Certifications
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-red)
